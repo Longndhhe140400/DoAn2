@@ -15,6 +15,7 @@ public class MarketController {
     public String viewProductDetail() {
         return "productDetail";
     }
+<<<<<<< Updated upstream
 //    @GetMapping("/myToad")
 //    public String viewMyToadCategory() {
 //        return "myToadCategory";
@@ -25,4 +26,8 @@ public class MarketController {
 //        return "sellToad";
 //    }
 
+=======
+
+    // test commentsdsdsds
+>>>>>>> Stashed changes
 }
